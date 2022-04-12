@@ -1,0 +1,22 @@
+{
+  "name": "q-c",
+  "version": "1.0.0",
+  "description": "aprendendo node",
+  "main": "flags.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusht/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusht/nodejs/issues"
+  },
+  "homepage": "https://github.com/matheusht/nodejs#readme",
+  "dependencies": {
+    "cfonts": "^2.10.1"
+  }
+}
